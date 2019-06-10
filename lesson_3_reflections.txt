@@ -6,3 +6,9 @@ local?
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 	It is because we need to know when each of the different users who are operating on the files had their changes done and that we can pull the changes when they are ready.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	We use forks when we are about to modify a repository of some other author so that we won't be disturbing their code.
+	We use clone when we are modifying the repository if an author if he is willing us to do so.
+	We use branch when we do not want to disturb the branch that is originally working and that we want to experiment on the branch.
